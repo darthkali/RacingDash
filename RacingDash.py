@@ -34,10 +34,10 @@ import json
 import re
 import traceback
 
-from mainmod import test
+#from dash_lib import main
 
-sys.path.append("C:\\Users\\dannysteinbrecher\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages")
-ac.log(str(sys.path))
+#sys.path.append("C:\\Users\\dannysteinbrecher\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages")
+#ac.log(str(sys.path))
 #import discord
 
 
